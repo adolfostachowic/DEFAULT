@@ -1,0 +1,2 @@
+# DEFAULT
+ConsoleWrite ("> ==> @SystemDir = " &amp; @SystemDir &amp; @CRLF)  AutoIt Version: 3.3.6.1 (stable)  Author:         Alexander Samuelsson AKA AdmiralAlkex   Script Function:     See http://support.microsoft.com/kb/2533623 for details Global Const $LOAD_LIBRARY_SEARCH_APPLICATION_DIR = 0x00000200 Global Const $LOAD_LIBRARY_SEARCH_DEFAULT_DIRS = 0x00001000 Global Const $LOAD_LIBRARY_SEARCH_SYSTEM32 = 0x00000800
